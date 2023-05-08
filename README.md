@@ -97,6 +97,21 @@ DEL (Delete a thought)
 
 POST (Create reactions to thoughts)
 
+<img width="1157" alt="image" src="https://user-images.githubusercontent.com/120603153/236959049-3f69d4d6-7c72-465c-84d9-6e1cb4f41372.png">
+
+
+DEL (Delete reactions to thoughts)
+
+<img width="1179" alt="image" src="https://user-images.githubusercontent.com/120603153/236959618-39568d28-cb68-4c29-858d-7c5ee5a14b77.png">
+
+POST (Add a friend)
+
+<img width="1127" alt="image" src="https://user-images.githubusercontent.com/120603153/236960811-c6d65ebc-9df4-4a0c-8072-4c17295cfe8c.png">
+
+DEL (Delete a Friend)
+
+<img width="1112" alt="image" src="https://user-images.githubusercontent.com/120603153/236960978-02d2eccf-97ac-4d24-8652-decea316a482.png">
+
 
 
 ## Walkthrough Video
