@@ -41,6 +41,23 @@ git clone https://github.com/harold-fv/Social-Network-API
 3. After you install the package ,from the command line type, npm run start. This is to load and run the program.
 
 
+
+## Usage
+
+To demonstrate the acceptance criteria, below is the overview of the application.
+
+1. When I enter the command to invoke the application,then the server is started and the Mongoose models are synced to the MongoDB database.
+
+
+2. When the user opens API GET routes in Insomnia for users and thoughts, then the data for each of these routes is displayed in a formatted JSON.
+
+
+3. When the user tests API POST, PUT, and DELETE routes in Insomnia, then the system will be able to successfully create, update, and delete users and thoughts in the database.
+
+
+4. When the user tests API POST and DELETE routes in Insomnia,then the system will be able to successfully create and delete reactions to thoughts and add and remove friends to a user’s friend list.
+
+
 ## Walkthrough Video
 
 The following ia a walkthrough video that demonstrates the functionality of the social media API. 
