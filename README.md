@@ -48,14 +48,36 @@ To demonstrate the acceptance criteria, below is the overview of the application
 
 1. When I enter the command to invoke the application,then the server is started and the Mongoose models are synced to the MongoDB database.
 
+<img width="180" alt="image" src="https://user-images.githubusercontent.com/120603153/236955587-16823649-dfd0-4c8a-b8cf-5946a3b55fc8.png">
+
+<img width="1064" alt="image" src="https://user-images.githubusercontent.com/120603153/236955651-02dc538c-5289-4f01-9123-89a99a39f23b.png">
+
 
 2. When the user opens API GET routes in Insomnia for users and thoughts, then the data for each of these routes is displayed in a formatted JSON.
 
 
 3. When the user tests API POST, PUT, and DELETE routes in Insomnia, then the system will be able to successfully create, update, and delete users and thoughts in the database.
 
+POST (Create a user)
+
+<img width="1127" alt="image" src="https://user-images.githubusercontent.com/120603153/236955782-6abe5fe8-aee1-4ba9-ac61-8a1dd49ba0e4.png">
+
+PUT (Update a user)
+
+<img width="1102" alt="image" src="https://user-images.githubusercontent.com/120603153/236956034-46cfee65-4dee-4e54-af3c-617a99aa65b5.png">
+
+DEL (Delete a user)
+
+<img width="1061" alt="image" src="https://user-images.githubusercontent.com/120603153/236956164-a8953c8a-c45d-47f1-9101-fe1e465978ed.png">
+
+
+
 
 4. When the user tests API POST and DELETE routes in Insomnia,then the system will be able to successfully create and delete reactions to thoughts and add and remove friends to a user’s friend list.
+
+POST (Create reactions to thoughts)
+
+
 
 
 ## Walkthrough Video
