@@ -41,9 +41,9 @@ git clone https://github.com/harold-fv/Social-Network-API
 3. After you install the package ,from the command line type, npm run start. This is to load and run the program.
 
 
-## Usage
+## Walkthrough Video
 
-To use the application, follow these steps:
+The following ia a walkthrough video that demonstrates the functionality of the social media API. 
 
 
 1. The following animation shows GET routes to return all users and all thoughts being tested in Insomnia:
