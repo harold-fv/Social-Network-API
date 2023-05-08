@@ -48,13 +48,20 @@ To demonstrate the acceptance criteria, below is the overview of the application
 
 1. When I enter the command to invoke the application,then the server is started and the Mongoose models are synced to the MongoDB database.
 
-<img width="180" alt="image" src="https://user-images.githubusercontent.com/120603153/236955587-16823649-dfd0-4c8a-b8cf-5946a3b55fc8.png">
+<img width="332" alt="image" src="https://user-images.githubusercontent.com/120603153/236957002-e245885e-45a0-41ad-8695-1f476869cdd3.png">
 
 <img width="1064" alt="image" src="https://user-images.githubusercontent.com/120603153/236955651-02dc538c-5289-4f01-9123-89a99a39f23b.png">
 
 
 2. When the user opens API GET routes in Insomnia for users and thoughts, then the data for each of these routes is displayed in a formatted JSON.
 
+GET (Get all users)
+
+<img width="1006" alt="image" src="https://user-images.githubusercontent.com/120603153/236958225-874a85ab-bc6d-4e32-b2a0-fe6d8717a3b5.png">
+
+GET ( Get all thoughts)
+
+<img width="1042" alt="image" src="https://user-images.githubusercontent.com/120603153/236958047-1f7d45cc-87ce-427e-babd-969fb3f73050.png">
 
 3. When the user tests API POST, PUT, and DELETE routes in Insomnia, then the system will be able to successfully create, update, and delete users and thoughts in the database.
 
@@ -72,11 +79,23 @@ DEL (Delete a user)
 
 
 
+POST (Create a thought)
+
+<img width="1069" alt="image" src="https://user-images.githubusercontent.com/120603153/236957291-1119c434-911a-4d27-8a6f-204a6cb68aac.png">
+
+PUT (Update a thought)
+
+<img width="1010" alt="image" src="https://user-images.githubusercontent.com/120603153/236957908-5acdcb4b-61d1-4a76-9c9d-298b1261112d.png">
+
+
+DEL (Delete a thought)
+
+<img width="1052" alt="image" src="https://user-images.githubusercontent.com/120603153/236958335-49144155-58fa-43f9-8f0f-e55a69fb2184.png">
+
 
 4. When the user tests API POST and DELETE routes in Insomnia,then the system will be able to successfully create and delete reactions to thoughts and add and remove friends to a user’s friend list.
 
 POST (Create reactions to thoughts)
-
 
 
 
