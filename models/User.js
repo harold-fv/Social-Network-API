@@ -43,6 +43,20 @@ const userSchema = new Schema(
   userSchema.virtual('friendCount').get(function () {
     return this.friends.length;
   });
+// Add a 'pre' hook on the 'remove' event for the userSchema
+  userSchema.pre('remove', async function(next) {
+    try {
+      // Before removing the user, find and delete all thoughts where the 'username' field matches the user's username
+      await Thought.deleteMany({ username: this.username });
+
+      // Call the next middleware or function in the pipeline
+      next();
+    } catch (error) {
+
+      // If there's an error, call the next function with the error object
+      next(error);
+    }
+  });
   
     // userSchema is the name of the schema we are using to create a new instance of the model
   const User = model('User', userSchema);
