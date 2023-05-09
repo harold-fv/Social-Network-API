@@ -127,6 +127,9 @@ The following ia a walkthrough video that demonstrates the functionality of the 
 
 3. The following animation shows the POST, PUT, and DELETE routes for users being tested in Insomnia:
 
+https://drive.google.com/file/d/1xt390aD0LiWLfQtmZnpBaLZdIGIGjTUa/view
+
+
 4. In addition to this, your walkthrough video should show the POST, PUT, and DELETE routes for thoughts being tested in Insomnia.
 
 5. The following animation shows the POST and DELETE routes for a user’s friend list being tested in Insomnia:
