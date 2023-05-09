@@ -135,7 +135,7 @@ The following ia a walkthrough video that demonstrates the functionality of the 
    https://github.com/harold-fv/Social-Network-API/blob/main/assets/ppd1-user.gif
 
 
-4. In addition to this, your walkthrough video should show the POST, PUT, and DELETE routes for thoughts being tested in Insomnia.
+4. In addition to this, a walkthrough video showing the POST, PUT, and DELETE routes for thoughts being tested in Insomnia.
 
    https://github.com/harold-fv/Social-Network-API/blob/main/assets/ppd-thought.gif
 
@@ -143,8 +143,9 @@ The following ia a walkthrough video that demonstrates the functionality of the 
 
    https://github.com/harold-fv/Social-Network-API/blob/main/assets/dp-friends.gif
 
-6. In addition to this, your walkthrough video should show the POST and DELETE routes for reactions to thoughts being tested in Insomnia.
+6. In addition to this, a walkthrough video showing the POST and DELETE routes for reactions to thoughts being tested in Insomnia.
 
+   https://github.com/harold-fv/Social-Network-API/blob/main/assets/dp-reaction.gif
 
 Overall, the social network API (Application Programming Interface) provides developers with the tools to integrate social media functionality into their applications. Social media platforms such as Facebook, Twitter, Instagram, LinkedIn, and others provide APIs that enable developers to access various features of their platforms, including user authentication, user data retrieval, social sharing, messaging, and more.
 
