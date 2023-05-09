@@ -127,7 +127,10 @@ The following ia a walkthrough video that demonstrates the functionality of the 
 
 3. The following animation shows the POST, PUT, and DELETE routes for users being tested in Insomnia:
 
-https://drive.google.com/file/d/1xt390aD0LiWLfQtmZnpBaLZdIGIGjTUa/view
+   
+   https://github.com/harold-fv/Social-Network-API/blob/main/assets/ppd1-user.gif
+   
+
  
 
 
