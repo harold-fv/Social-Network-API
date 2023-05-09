@@ -121,8 +121,8 @@ The following ia a walkthrough video that demonstrates the functionality of the 
 
 1. The following animation shows GET routes to return all users and all thoughts being tested in Insomnia:
 
-  https://github.com/harold-fv/Social-Network-API/blob/main/assets/get-user-thought.gif
-  
+  https://github.com/harold-fv/Social-Network-API/blob/main/assets/get1-user-thought.gif
+
 
 2. The following animation shows GET routes to return a single user and a single thought being tested in Insomnia:
 
