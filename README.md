@@ -35,7 +35,7 @@ To install and use the Social Network API application, please follow these steps
 
 git clone https://github.com/harold-fv/Social-Network-API
 
-2. Next, run the following on the command line to install the package, npm i mongoose.
+2. Next, run the following on the command line to install the package, npm i express mongoose
 
 
 3. After you install the package ,from the command line type, npm run start. This is to load and run the program.
