@@ -126,6 +126,8 @@ The following ia a walkthrough video that demonstrates the functionality of the 
 
 2. The following animation shows GET routes to return a single user and a single thought being tested in Insomnia:
 
+  https://github.com/harold-fv/Social-Network-API/blob/main/assets/get-single-user-thought.gif
+  
 
 3. The following animation shows the POST, PUT, and DELETE routes for users being tested in Insomnia:
 
